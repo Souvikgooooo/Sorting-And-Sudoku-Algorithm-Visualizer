@@ -1,7 +1,7 @@
-Sorting and Sudoku Visualization Website
+# Sorting and Sudoku Visualization Website
 This project is a web application built using HTML, CSS, and JavaScript to visualize sorting algorithms and play Sudoku puzzles.
 
-Features:
+ #Features:
 Sorting Algorithms Visualization:
 Visualize Sorting: Users can choose from various sorting algorithms such as Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, and Quick Sort. The visualization demonstrates how these algorithms sort an array step by step, providing an interactive learning experience.
 Customizable Array Size: Users can set the size of the array to be sorted, allowing them to observe the behavior of different algorithms with varying input sizes.
